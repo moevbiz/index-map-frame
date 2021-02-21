@@ -1,6 +1,6 @@
 # Embedded Independent Space Index Map
 
-demo: moevbiz.github.io/index-map-frame
+demo: [moevbiz.github.io/index-map-frame](moevbiz.github.io/index-map-frame)
 
 embed code:
 ```
