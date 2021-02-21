@@ -6,4 +6,5 @@ embed code:
 ```
 <iframe src="https://independentspaceindex.test/map/pina" frameborder="0" width="600" height="300"></iframe>
 ```
+change `width` and `height` according to your needs.
 🎯
